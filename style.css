@@ -1,0 +1,337 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+header {
+  width: 100%;
+  height: 56px;
+  display: flex;
+}
+.ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-left: 50px;
+  gap: 33px;
+  color: black;
+}
+ul li a {
+  color: black;
+}
+
+button {
+  border: 3px solid green;
+  width: 100px;
+  height: 40px;
+}
+.button {
+  padding-left: 900px;
+}
+
+.section2 {
+  width: 100%;
+  height: 460px;
+  /* background-color: red; */
+}
+.nomber1 {
+  padding-top: 100px;
+  width: 100%;
+  height: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  font-size: 30px;
+}
+.box {
+  width: 180px;
+  height: 44px;
+}
+
+.nomber3 {
+  width: 800px;
+  height: 258px;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+.nomber2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 90px;
+}
+
+button p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #067a46;
+}
+
+.nomber4 {
+  display: flex;
+  justify-content: center;
+}
+
+aside {
+  width: 970px;
+  height: 350px;
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nomber6 {
+  width: 480px;
+  height: 360px;
+  padding-left: 100px;
+}
+
+.beer {
+  padding-left: 5px;
+}
+
+.call {
+  display: flex;
+  justify-content: center;
+  font-size: 23px;
+}
+
+.diary {
+  padding-top: 90px;
+}
+.diary button {
+  width: 300px;
+}
+
+.aside1 {
+  display: flex;
+  justify-content: center;
+}
+
+.nomber7 {
+  width: 100%;
+  height: 40px;
+  font-size: 31px;
+}
+.nomber7 p {
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+}
+.all {
+  width: 500px;
+  height: 60px;
+  margin-top: 200px;
+  margin-left: 700px;
+}
+
+.nomber8 {
+  width: 500px;
+  height: 40px;
+
+  display: flex;
+  justify-content: center;
+  font-size: 31px;
+}
+.nomber9 {
+  width: 500px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.imga {
+  display: flex;
+  justify-content: center;
+}
+
+.bu {
+  width: 100%;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+button {
+  border: 3px solid #067a46;
+}
+button p {
+  color: #067a46;
+}
+.allo {
+  width: 550px;
+  height: 60px;
+  margin-top: 200px;
+  margin-left: 700px;
+}
+
+.nomber10 {
+  width: 550px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  font-size: 31px;
+}
+
+.nomber11 {
+  width: 550px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.alle {
+  width: 1170px;
+  height: 560px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.boxer {
+  width: 262.5px;
+  height: 562.5px;
+}
+
+.nomber12 {
+  width: 109px;
+  height: 22.4px;
+  top: 386.3px;
+  left: 76.85px;
+}
+.nomber13 {
+  width: 176.1px;
+  height: 92px;
+  top: 420.1px;
+  left: 43.3px;
+}
+
+.nomber14 {
+  width: 111.51px;
+  height: 22.4px;
+  top: 386.3px;
+  left: 75.59px;
+}
+.nomber15 {
+  width: 100%;
+  height: 44px;
+  top: 420.1px;
+  left: 57.52px;
+}
+
+.nomber16 {
+  width: 91.41px;
+  height: 22.4px;
+  top: 386.3px;
+  left: 85.64px;
+}
+.nomber17 {
+  width: 199.47px;
+  height: 92px;
+  top: 420.1px;
+  left: 31.61px;
+}
+
+.nomber18 {
+  width: 135.25px;
+  height: 22.4px;
+  top: 386.3px;
+  left: 63.73px;
+}
+.nomber19 {
+  width: 200.99px;
+  height: 140px;
+  top: 420.1px;
+  left: 30.85px;
+}
+
+.allu {
+  display: flex;
+  justify-content: center;
+}
+
+.aside5 {
+  width: 100%;
+  height: 320px;
+}
+.nomber20 {
+  width: 100%;
+  height: 320px;
+  display: flex;
+  justify-content: center;
+}
+
+.nomber21 {
+  width: 100%;
+  height: 48px;
+
+  display: flex;
+  justify-content: center;
+}
+.nomber21 p {
+  font-size: 37px;
+}
+
+.aside7 {
+  width: 960px;
+  height: 600px;
+  top: 3233.9px;
+  left: 279.6px;
+
+  padding: 15.4px 0px 0px 0px;
+}
+
+.aside6 {
+  display: flex;
+  justify-content: center;
+}
+
+.spider {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.b {
+  width: 977px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.footer {
+  width: 1150px;
+  height: 387px;
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.others {
+  width: 201px;
+  height: 210px;
+}
+
+.cs2 {
+  width: 1150px;
+  height: 210px;
+  display: flex;
+  gap: 20px;
+}
+
+.other {
+  width: 345px;
+  height: 117px;
+}
+
+.others p {
+  color: #067a46;
+}
